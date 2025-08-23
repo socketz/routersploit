@@ -78,7 +78,7 @@ Required:
 * requests
 * paramiko
 * pysnmp
-* pycryptodome
+* pycrypto
 
 Optional:
 * bluepy - Bluetooth low energy support 
